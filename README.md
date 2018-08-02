@@ -83,14 +83,3 @@ License
 -------
 
 Apache 2.0
-
-Author Information
-------------------
-
-Future Development
-------------------
-
-* All perfSONAR bundles: tools, core, centralmanagement, archive
-* interface_gateway_ipv6 support
-* optional test packages
-
