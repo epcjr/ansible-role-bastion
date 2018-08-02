@@ -1,0 +1,8 @@
+---
+# defaults file for ansible-role-bastion/
+
+# group vars
+bastion_jumpboxes: []
+bastion_nameservers: []
+bastion_user_group: nobody
+bastion_users: []
