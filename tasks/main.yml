@@ -1,6 +1,8 @@
 ---
 # tasks file for ansible-role-bastion
 
+# TODO: Fail if no users or jumpboxes defined
+
 - name: set bastion_hostname
   hostname:
     name: "{{ item }}"
